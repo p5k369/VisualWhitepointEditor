@@ -1,0 +1,5 @@
+black
+isort
+mypy
+pylint
+git+https://github.com/TilmanK/PyQt6-stubs
